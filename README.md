@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, my name is Damian Byrd 👋</h1>
 <h3 align="center">A passionate software engineer currently enrolled in TripleTen</h3>
 
-- 🔭 I’m currently working on [Spots](https://damianb-tt.github.io/se_project_spots/)
+- 🔭 I’m currently working on [WTWR](https://damianb-tt.github.io/se_project_react/)
 
-- 🌱 I’m currently learning **JavaScipt, RESTful API, and SQL**
+- 🌱 I’m currently learning **React, Node, and Express**
 
 - 👯 I’m looking to collaborate on **anything innovative!**
 

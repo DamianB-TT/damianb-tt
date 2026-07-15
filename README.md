@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, my name is Damian Byrd 👋</h1>
-<h3 align="center">A passionate software engineer currently enrolled in TripleTen</h3>
+<h3 align="center">A passionate software engineer currently interning at City of Trees Tech</h3>
 
-- 🔭 I’m currently working on [WTWR](https://damianb-tt.github.io/se_project_react/)
+- 🔭 I’m currently working on [Rogue Valley Rewards](https://roguevalleyrewards.com)
 
 - 🌱 I’m currently learning **React, Node, and Express**
 
 - 👯 I’m looking to collaborate on **anything innovative!**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available on my [portfolio](https://damianbyrd.com)
 
 - 📫 How to reach me **damian.byrd00@gmail.com**
 
-- ⚡ Fun fact **I've been a Roblox game developer for 7 years!**
+- ⚡ Fun fact **I've contributed to Roblox games with a combined 700M+ visits.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
